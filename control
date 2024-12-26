@@ -1,0 +1,9 @@
+Package: com.netskao.wcsvgcolorhookexamples
+Name: WCSVGColorHookExamples
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0)
+Description: WeChat SVGImage Color Hook Examples
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
